@@ -1,2 +1,2 @@
-rootProject.name = "Kotlin/JS Template"
+rootProject.name = "KotlinJSTemplate"
 
